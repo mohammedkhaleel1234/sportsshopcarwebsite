@@ -1,0 +1,1409 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Outfit', sans-serif;
+
+}
+
+main,header,footer{
+    overflow: hidden;
+}
+.subheadertwo{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.subheadertwo li a {
+    color: white;
+    text-decoration: none;
+}
+
+.mainheader{
+    display: flex;
+    justify-content: center;
+    
+
+}
+.list{
+    margin: 35px 71px;
+    font-size: 18px;
+    list-style-type: none;
+    color: white;
+    text-decoration: none;
+    
+}
+.header{
+    background-image: url(./assets/Rectangle\ 19\ \(1\).png);
+    width: 100%;
+    height: 757px;
+}
+.subheaderone{
+    margin: 18px;
+    
+}
+.heading{
+    margin: 30px 0px 0px 300px;
+    font-size: 40px;
+    color: white;
+
+    
+}
+.paragraph{
+    margin: 0px 0px 0px 150px;
+    font-size: 23px;
+    color: white;
+    
+    
+}
+.paragraph1{
+    margin: 0px 0px 0px 150px;
+    font-size: 23px;
+    color: white
+}
+.paragraph2{
+    margin: 0px 0px 0px 200px;
+    font-size: 23px;
+    color: white
+}
+.image1{
+    margin: 0px 0px 100px 650px;
+}
+
+.section1{
+    display: flex;
+    
+}
+
+.section{
+    background-color: #052D45;
+    
+}
+.division{
+    display: flex;
+    margin-left: 200px;
+    color: white;
+}
+.division1{
+    display: flex;
+    margin-left: 200px;
+    color: white;
+    
+
+}
+.section2{
+    margin-top:500px;
+    max-width: 50px;
+}
+.paragraph3{
+    margin-bottom: 70px;
+}
+.heading1{
+    
+    text-align: center;
+    font-size: 36px;
+    margin: 90px 0px  30px 0px;
+    color: black;
+    
+
+}
+.paragraph5{
+    width: 48%;
+    margin: auto;
+    text-align: center;
+    font-size: 24px;
+    color: black;
+    margin-bottom: 50px;
+    
+}
+.paragraph6{
+    margin-left: 400px;
+    font-size: 23px;
+
+
+}
+.paragraph7{
+    margin-left: 400px;
+    font-size: 23px;
+
+    
+    
+    
+
+}
+.main{
+    display: flex;
+    justify-content: space-around;
+    margin: 0px 0px 0px 0px;
+}
+.mainone{
+    display: flex;
+    
+    margin: 0px 0px 0px 0px;
+}
+.topcar{
+    text-align: center;
+    margin-bottom: 25px;
+    font-size: 24px;
+    
+}
+.headengine{
+    margin-bottom: 25px;
+}
+.spareparts{
+    margin-bottom: 25px;
+}
+.image2{
+    margin-top: 70px;
+    margin-left: 200px;
+}
+.paragraph8{
+    margin-left: 250px;
+    font-size: 23px;
+    margin-top: 20px;
+}
+.maindivision{
+    display: flex;
+}
+.image3{
+    margin-left: 350px;
+    margin-top: 70px;
+}
+
+
+.mainfeature{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.sizeand{
+    width: 71%;
+    margin: auto;
+    text-align: center;
+    color: black;
+    font-size: 24px;
+    
+    
+    
+
+}
+
+
+.main30{
+    display: flex;
+    justify-content: center;
+    margin: 28% 0px 10% 0px;
+    align-items: center;
+    color:black;
+    
+    
+
+}
+.colorcheck{
+    color: #757272;
+    font-size: 24px;
+}
+
+.subdivsion30one{
+    margin-right: 20px;
+    
+}
+.center{
+    text-align: center;
+    font-size: 36px;
+}
+.img{
+    width: 100%;
+   
+    
+    
+   
+
+}
+.subfeaturetwo{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+    
+    
+
+    
+}
+.imgone{
+    margin-bottom: 10%;
+
+}
+.flexalighment{
+    margin-top: 20px;
+    
+    
+}
+
+.subdivsion30one{
+    margin-right: 80px;
+}
+
+
+
+.backimage{
+    background-color: white;
+    
+    
+    
+}
+.aboutpara{
+    margin-bottom: 30px;
+    
+    width: 500px;
+    font-size: 24px;
+}
+.aboutahhead{
+    margin-bottom: 30px;
+    font-size: 30px;
+    
+}
+.usabout{
+    font-size: 36px;
+    margin-top: 0px;
+    margin-bottom: 25px;
+}
+.sellingcar{
+    font-size: 24px;
+    width: 500px;
+}
+.disflexone{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 50px;
+}
+.disflex{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 50px;
+    
+    
+}
+.classicpara{
+    width: 500px;
+    font-size: 24px;
+    margin-bottom: 25px;
+}
+.movedown{
+    margin-top: 5px;
+}
+.classicparaone{
+    width: 500px;
+    font-size: 24px;
+}
+.flexsection{
+    display: flex;
+    
+    justify-content: space-between;
+    justify-content: space-around;
+    
+
+}
+.aboutparaone{
+    
+    width: 500px;
+    font-size: 24px;
+
+}
+.fontalighs{
+    font-size: 36px;
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+.aligh{
+    border-radius: 10px;
+    margin-bottom: 25px;
+}
+.part1{
+    
+    text-align: center;
+    margin: 40px 0px 40px 0px;
+    color: white;
+
+}
+
+.part2{
+    margin-left: 65px;
+    
+}
+.part4{
+    text-align: center;
+    margin: 40px 0px 40px 0px;
+    color: white;
+}
+.part6{
+
+    margin-left: 65px;
+    font-size: 20px;
+    width: 65%;
+    color: white;
+    margin: 60px;
+    
+}
+.part7{
+    margin-left: 65px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.part8{
+    
+    margin-left: 66px;
+    width: 68%;
+    color: white;
+    font-size: 19px;
+    
+    
+
+}
+.part10{
+    margin-top: 40px;
+    margin-left: 5%;
+}
+.part9{
+    display: flex;
+
+}
+.part11{
+    text-align: center;
+    margin-top: 250px;
+    width: 50%;
+    margin-left: 40px;
+    color: white;
+    
+    
+}
+.part13{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 50%;
+    margin-left: 60px;
+    color: white;
+}
+.part14{
+    margin-left: 50px;
+    padding-bottom: 50px;
+
+}
+.backgroundimage1{
+    background-color:white ;
+    width: 100%;
+    padding: 10px 0px 100px 0px;
+    
+   
+    
+    
+    
+    
+    
+}
+.backgroundimage2{
+    background-color: #041B26;
+    padding: 1px;
+    
+}
+.part15{
+    text-align: center;
+    padding: 30px;
+    color: white;
+
+}
+.backgroundimage3{
+    background-color:#052D45 ;
+}
+.part16{
+    margin-top: 50px;
+    margin-left: 50px;
+    
+}
+.part17{
+    margin-bottom: 30px;
+    margin-left: 50px;
+}
+.part18{
+    margin-left: 100px;
+}
+.part19{
+    margin-left: 100px;
+    
+}
+.part20{
+    margin-left: 100px;
+    width: 220px;
+    font-size: 15px;
+
+}
+.part21{
+    display: flex;
+    
+}
+.part22{
+    display: flex;
+}
+.part23{
+    margin-left: 625px;
+    margin-bottom: 100px;
+    
+}
+.part24{
+    margin-left: 624px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+.part25{
+    margin-top: 60px ;
+    margin-left: 200px;
+    
+    
+}
+.part26{
+    margin-top: 20px;
+    margin-left: 200px;
+    
+
+    
+}
+.footer1{
+    margin: auto;
+    width: 50%;
+}
+.backgroundimage4{
+    background-color: #000000;
+    
+    
+
+    
+
+    }
+.h1{
+    color: white;
+}
+.line{
+    margin-left:105px;
+    width: 85%;
+}
+.heading2{
+    margin: auto;
+    text-align: center;
+    padding: 40px;
+    color: white;
+    
+}
+.backgroundcolor{
+    background-color: #052D45;
+}
+    .padding{
+        padding: 40px;
+    }
+    .main1{
+        background-color: white;
+        width: 102%;
+        height: 520px;
+        display: flex;
+    }
+    .subone{
+        width: 41%;
+        height: 640px;
+        
+        color: black;
+        margin-left: 40px;
+        margin-top: 10px;
+    }
+    .subtwo{
+        width: 50%;
+        height: 250px;
+        background-color: white;
+        margin-top: 35px;
+    }
+    .alighmove{
+       margin-right: 10px;
+       height: 24px;
+    }
+    .alighmoves{
+        margin-right: 10px;
+        height: 24px;
+     }
+    
+
+    .firstnames{
+        font-size: 24px;
+        margin-bottom: 25px;
+    }
+    .addressfont{
+        font-size: 24px;
+    }
+    .emailfont{
+        font-size: 24px;
+    }
+    .numberfont{
+        font-size: 24px;
+    }
+    .messagecolor{
+        color: #8D8D8D;
+    }
+    .number{
+        position: relative;
+        bottom: -10px;
+        
+    }
+    .selectsubject{
+        font-size: 24px;
+        position: relative;
+        top: 25px;
+    }
+    
+    .ratioright{
+        margin-right: 10px;
+        margin-top: 10px;
+        position: relative;
+        top: 2px;
+       
+    }
+    .part111{
+        margin-top: 18px;
+        margin-left: 225px;
+    }
+    .message{
+        margin-bottom: 10px;
+        font-size: 24px;
+    }
+    .general{
+        margin-right: 10px;
+        
+    }
+    .subscribe{
+        width: 96px;
+    height: 40px;
+    margin-top: 32px;
+    background-color: #000000;
+    border: none;
+    color: white;
+    }
+    .headings{
+        text-align: center;
+        padding: 30px;
+        font-size: 36px;
+        
+        color: black;
+    }
+    .saysomething{
+        font-size: 24px;
+    }
+    .contactinformation{
+        font-size: 24px;
+    }
+    .display{
+        display: flex;
+        margin-bottom: 50px;
+        margin-left: 50px;
+    }
+    .paddings{
+         padding: 50px;
+    }
+    .display1{
+        display: flex;
+        margin-bottom: 50px;
+        margin-left: 50px;
+
+    }
+    .phone{
+        margin-bottom: 50px;
+        margin-left: 50px;
+    }
+    .mains{
+        display: flex;
+        margin-bottom: 20px;
+        
+
+    }
+    .topcar{
+        color: black;
+
+
+    }
+    
+    .mainss{
+        margin-left: 290px;
+    }
+    .mainsss{
+        margin-top: 40px;
+        display: flex;
+    }
+    .part{
+        margin-top: 30px; 
+    }
+    .part111{
+        margin-bottom: px;
+    }
+    .part112{
+        margin-left: 20px;
+        font-size: 24px;
+        margin-bottom: 25px;
+        
+        
+    }
+    .phonenumber{
+        font-size: 24px;
+        margin-bottom: -9px;
+        margin-top: 21px;
+    }
+    .emailtype{
+        font-size: 24px;
+        margin-bottom: 25px;
+    }
+    .email{
+        margin-top: 18px;
+       
+    }
+    .name{
+        margin-top: 18px;  
+    }
+    .button{
+        margin-left: 500px;
+        margin-top: 20px;
+        padding: 5px 15px;
+        width: 125px;
+    height: 40px;
+    margin-left: 568px;
+    }
+    .footericonone{
+        height: 20px;
+        margin-right: 5px;
+        position: relative;
+        top: 5px;
+    }
+    .footericon{
+        height: 20px;
+        margin-right: 5px;
+    }
+    .part31{
+        display: flex;
+    }
+    .part155{
+        display: flex;
+    }
+    .button{
+        background-color: #000000;
+        border: none;
+        color: white;
+    }
+    .backgroundcolor1{
+        background-color: #000000;
+      
+        
+        color: white;
+        
+    }
+    .logo{
+        text-align: center;
+        padding: 10px;
+    }
+    .fontsize{
+        
+        margin-left: 60px;
+    }
+    .subfooter2{
+        display: flex;
+        justify-content: space-around;
+        padding: 10px ;
+    }
+    .mains1{
+        display: flex;
+    }
+    .fontsize1{
+       
+        margin-left: 60px;
+    }
+    .fontsize2{
+        
+        margin-left: 60px;
+    }
+    .height{
+        margin-bottom: 30px;
+    }
+    .subfooter1{
+        padding: 10px;
+    }
+    .displays{
+        display: flex;
+        margin-bottom: 30px;
+        
+        
+    }
+    .displayss{
+        display: flex;
+        margin-bottom: 30px;
+        
+    }
+    .displaysss{
+        margin-bottom: 22px;
+
+
+
+    }
+    .marginleft{
+        margin-left: 60px;
+        height: 190px;
+        background-color: #494646;
+       
+        background-repeat: no-repeat;
+        width: 295px;
+        border-radius: 10px;
+       
+    }
+    .newsletter{
+        margin-left: 10px;
+        margin-top: 10px;
+    }
+    .marginbottom{
+        margin-top: 32px;
+        padding: 5px 5px 5px 5px;
+    }
+    .display5{
+        display: flex;
+        margin-left: 2px;
+    }
+    .para{
+        margin-top: 37px; 
+        margin-left: 20px;
+    }
+    
+    .para1{
+        margin-top: 30px;
+        margin-left: 10px;
+    }
+    .phone{
+        display: flex;
+    }
+    
+    .titlemove{
+        
+        margin-top: 140px;
+    margin-left: 60px;
+    }
+    .down{
+        margin-bottom: 70px;
+    }
+    .title{
+        color: white;
+        font-size: 36px;
+    }
+    .titlepara{
+        color: white;
+        font-size: 24px;
+    }
+    .ordernow{
+     padding: 15px;
+     border-radius: 10px;
+     border: none;
+
+    }
+    .paramove{
+        margin-bottom: 70px;
+    }
+    .lineone{
+        width: 315%;
+        height: 1px;
+        background-color: #5a57576b;
+        margin-top: 12px;
+    }
+    .linetwo{
+        width: 270%;
+        height: 1px;
+        background-color: #5a57576b;
+        margin-top: 12px;
+        margin-left: 20px;
+    }
+    .linethree{
+        width: 557%;
+        height: 1px;
+        background-color: #5a57576b;
+        margin-top: 12px;
+    }
+    .linefour{
+        width: 230%;
+        height: 1px;
+        background-color: #5a57576b;
+        margin-top: 12px;
+    }
+    .linefive{
+        width: 96%;
+        height: 1px;
+        background-color: #5a57576b;
+        margin-top: 12px;
+    }
+    .parawidth{
+        width: 290px;
+    }
+    .smallfooter{
+        width: 100%;
+        height: 50px;
+        display: flex;
+        justify-content: space-between;
+    }
+    .designed{
+       font-size: medium;
+       margin-left: 50px;
+       margin-top: 15px;
+    }
+    .rights{
+        font-size: medium;
+        margin-right: 50px;
+        margin-top: 15px;
+    }
+
+
+    @media screen and (max-width:500px) {
+        .mainheader{
+           display: flex;
+            justify-content: center;
+            
+        
+        }
+        .titlepara{
+            color: white;
+            font-size: 10px;
+        }
+        .subheadertwo{
+            display: flex;
+            justify-content: space-around;
+            
+        }
+        .list{
+            margin: 17.5px 0px;
+            font-size: 14px;
+            list-style-type: none;
+            color: white;
+            margin-right: 5px;
+            
+        }
+        .subheaderone{
+            margin: 0px;
+            margin-left: 0px;
+            margin-right: 5px;
+        }
+        .title{
+            color: white;
+            font-size: 12px;
+        }
+        
+        .header{
+            background-image: url(./assets/Rectangle\ 19\ \(1\).png);
+            width: 100%;
+            height: 218px;
+            background-size: 100%;
+        }
+        .mainfeature{
+            display: block;
+            grid-template-columns: 50% 50%;
+        }
+        .imgone{
+            margin-bottom: 20%;
+            width:414px;
+           
+        }
+        .flexsection{
+            display: block;
+            
+            justify-content: space-between;
+            justify-content: space-around;
+            
+        
+        }
+        .down{
+            margin-bottom: 5px;
+        }
+        .aboutparaone{
+    
+            width: 414px;
+            font-size: 24px;
+            text-align: center;
+        
+        }
+        .oldman{
+            width: 100%;
+        }
+        .imgtwo{
+            width: 100%;
+        }
+        .aboutpara{
+            margin-bottom: 30px;
+            
+            width: 400px;
+            font-size: 24px;
+            text-align: center;
+        }
+        .aboutahhead{
+            margin-bottom: 30px;
+            font-size: 30px;
+            text-align: center;
+            
+        }
+        .heading1{
+    
+            text-align: center;
+            font-size: 36px;
+            margin: 30px 0px  25px 0px;
+            color: black;
+            
+        
+        }
+        .paragraph5{
+            width: 100%;
+            margin: auto;
+            text-align: center;
+            font-size: 24px;
+            color: black;
+            margin-bottom: 25px;
+            
+        }
+        .paramove{
+            margin-bottom: 10px;
+        }
+        .main{
+            display: block;
+            justify-content: space-around;
+            margin: 0px 0px 0px 0px;
+        }
+        .aligh{
+            border-radius: 10px;
+            margin-bottom: 15px;
+           margin-left: 60px;
+        }
+        .spareparts{
+            margin-bottom: 15px;
+            margin-left: 60px;
+        }
+        .topcar{
+            text-align: center;
+            margin-bottom: 15px;
+            font-size: 24px;
+            
+        }
+        .headengine{
+            margin-bottom: 15px;
+            margin-left: 60px;
+        }
+        .heading1{
+    
+            text-align: center;
+            font-size: 36px;
+            margin: 30px 0px  25px 0px;
+            color: black;
+            
+        
+        }
+        .sizeand{
+            width: 100%;
+            margin: auto;
+            text-align: center;
+            color: black;
+            font-size: 24px;
+            
+            
+        
+        }
+        .main30{
+            display: flex;
+            justify-content: center;
+            margin: 17.5% 0px 5% 0px;
+            align-items: center;
+            color:black;
+            
+            
+        
+        }
+        .subone{
+            width: 20.5%;
+            height: 640px;
+            
+            color: black;
+            margin-left: 20px;
+            margin-top: 5px;
+        }
+        .subfeaturetwo{
+            margin-top: 25px;
+            margin-bottom: 25px;
+            
+            
+            
+        
+            
+        }
+        .imgone{
+
+            margin-bottom: 10%;
+            width: 100%;
+        
+        }
+        .movedown{
+            margin-top: 12.5px;
+        }
+        .aboutahhead{
+            margin-bottom: 15px;
+            font-size: 30px;
+            
+        }
+        .aboutpara{
+            margin-bottom: 15px;
+            
+            width: 414px;
+            font-size: 24px;
+        }
+        .backgroundimage1{
+            background-color:white ;
+            width: 100%;
+            padding: 5px 0px 50px 0px;
+            
+           
+            
+            
+            
+            
+            
+
+        }
+        .ordernow{
+            padding: 7.5px;
+            border-radius: 10px;
+            border: none;
+       
+           }
+        .disflex{
+            display: block;
+            justify-content: space-around;
+            margin-bottom: 25px;
+            
+            
+        }
+        .carrace{
+            width: 100%;
+        }
+        .fontalighs{
+            font-size: 36px;
+            margin-top: 27.5px;
+            margin-bottom: 12.5px;
+            text-align: center;
+        }
+        .classicpara{
+            width: 414px;
+            font-size: 24px;
+            margin-bottom: 15px;
+            text-align: center;
+        }
+        .classicparaone{
+            width: 414px;
+            font-size: 24px;
+            text-align: center;
+        }
+        .disflexone{
+            display: block;
+            justify-content: space-around;
+            margin-bottom: 25px;
+        }
+        .usabout{
+            font-size: 36px;
+            margin-top: 12.5px;
+            margin-bottom: 12.5px;
+            text-align: center;
+        }
+        .sellingcar{
+            font-size: 24px;
+            width: 414px;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .headings{
+            text-align: center;
+            padding: 15px;
+            font-size: 36px;
+            
+            color: black;
+        }
+        .main1{
+            background-color: white;
+            width: 51%;
+            height: 900px;
+            display: block;
+        }
+        .carmodel{
+            width: 100%;
+        }
+        
+        .paddings{
+            padding: 0px;
+       }
+       .contactinformation{
+        font-size: 24px;
+        width: 380px;
+        text-align: center;
+        margin-bottom: 15px;
+    }
+    .saysomething{
+        font-size: 24px;
+        width: 380px;
+        text-align: center;
+        margin-bottom: 15px;
+    }
+    .numberfont{
+        font-size: 24px;
+        
+    }
+    .phone{
+        display: flex;
+        margin-left: 80px;
+    }
+    .display{
+        display: flex;
+        margin-bottom: 25px;
+        margin-left: 80px;
+    }  
+    .display1{
+        display: flex;
+        margin-bottom: 25px;
+        margin-left: 80px;
+
+    }  
+    .mains{
+        display: block;
+        margin-bottom: 10px;
+        
+
+    }
+    .name{
+        margin-top: -345px;  
+    }
+    .firstnames{
+        font-size: 24px;
+        margin-left: 50px;
+    }
+    .lineone{
+        margin-left: 50px;
+    }
+    .part112{
+        margin-left: 50px;
+        font-size: 24px;
+        
+        
+    }
+    .linefour{
+        width: 594%;
+        height: 1px;
+        background-color: #5a57576b;
+        margin-top: 12px;
+    }
+    .email{
+        margin-top: 9px;
+        margin-left: 50px;
+        margin-bottom: 10px;
+    }
+    .mainss{
+        margin-left: 50px;
+    }
+    .mainsss{
+        margin-top: 25px;
+        display: block;
+    }
+    .selectsubject{
+        font-size: 24px;
+        margin-left: 50px;
+        margin-bottom: 10px;
+    }
+    .ratioright{
+        margin-right: 5px;
+        margin-top: 5px;
+        position: relative;
+        top: 1px;
+       
+    }
+    .rolls{
+        display: flex;
+        margin-left: 50px;
+        margin-bottom: 5px;
+    }
+    .part{
+        margin-top: 15px; 
+        margin-left: 50px;
+    }
+    .button{
+        margin-left: 250px;
+        margin-top: 10px;
+    padding: 2.5px 7.5px;
+    width: 107.5px;
+    height: 36px;
+    margin-left: 268px;
+    }
+    .emailfont{
+        font-size: 24px;
+        margin-top: -15px;
+    }
+    .alighmoves{
+        margin-right: 10px;
+        height: 24px;
+       position: relative;
+       top: -12px;
+     }
+     .logo{
+        
+        padding: 10px;
+    }
+    .logoimg{
+        width: 100%;
+    }
+    .logoimgone{
+        width: 100%;
+    }
+    .mains1{
+        display: block;
+    }
+    .subfooter2{
+        display: block;
+        justify-content: space-around;
+        padding: 10px ;
+    }
+    .marginleft{
+        margin-left: 65px;
+        background-image: url(./assets/Rectangle\ 3843.png);
+        background-repeat: no-repeat;
+        width: 295px;
+    
+    }
+    .fontsize{
+        
+        margin-left: 0px;
+    }
+    .height{
+        margin-bottom: 30px;
+        text-align: center;
+    }
+    .fontsize1{
+       
+        margin-left: 0px;
+    }
+    .fontsize2{
+        
+        margin-left: 0px;
+    }
+    .displaysss{
+        margin-bottom: 22px;
+        text-align: center;
+
+
+    }
+    .linethree{
+        width: 592%;
+        height: 1px;
+        background-color: #5a57576b;
+        margin-top: 12px;
+    }
+    .displayss{
+        display: flex;
+        margin-bottom: 30px;
+        margin-left: 126px;
+        
+    }
+    .displays{
+        display: flex;
+        margin-bottom: 30px;
+        margin-left: 125px;
+        
+        
+    }
+    .marginleft{
+        margin-left: 65px;
+        background-image: url(./assets/Rectangle\ 3843.png);
+        background-repeat: no-repeat;
+        width: 295px;
+        height: 170px;
+       
+    }
+    .titlemove{
+        
+        margin-top: 20px;
+    margin-left: 10px;
+    }
+    .newsletter{
+        margin-left: 40px;
+        margin-top: 0px;
+        position: relative;
+        top: 10px;
+    }
+    .designed{
+        font-size: small;
+        margin-left: 25px;
+        margin-top: 15px;
+     }
+     .rights{
+         font-size: small;
+         margin-right: 25px;
+         margin-top: 15px;
+     }
+     .part111{
+        margin-top: 18px;
+        margin-left: 0px;
+    }
+    .linetwo{
+        width: 311%;
+        height: 1px;
+        background-color: #5a57576b;
+        margin-top: 12px;
+        margin-left: 54px;
+    }
+    .phonenumber{
+        font-size: 24px;
+        margin-bottom: -9px;
+        margin-top: 21px;
+    }
+    .mainone{
+        display: block;
+        
+        margin: 0px 0px 0px 0px;
+    }
+    .linefive{
+        width: 594%;
+        height: 1px;
+        background-color: #5a57576b;
+        margin-top: 12px;
+    }
+ 
+    
+   
+}
+    
+
+
+    
+        
+
+    
+        
+
+    
+    
+
+
+    
+
+
+    
+
+    
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
